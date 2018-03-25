@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Tic Tac Toe</string>
+    <string name="reset_board">RESET BOARD</string>
+    <string name="clear_scores">CLEAR SCORES</string>
+    <string name="player_x">X</string>
+    <string name="player_o">O</string>
+</resources>
